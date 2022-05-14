@@ -20,6 +20,10 @@
     <p>Added Link (GitHub Profile)</p>
     <p>Added Text To Bookmarklets (How To Use)</p>
     <p>Added Text To APC-Betta-Page (Want To Learn?)</p>
+    <p>Changed APC-Betta-Page Theme</p>
+    <p>Changed APC-Betta-Bookmarklets Theme</p>
+    <p>Changed APC-Betta-Update-Log Theme</p>
+    <p>Changed APC-Betta-Suggestions Theme</p>
     <h3>
         <a href="https://dawnerror.github.io/APC-Betta-Page/">
             APC Betta Page
