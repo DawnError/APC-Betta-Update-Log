@@ -21,7 +21,7 @@
     <p>Added Text To Bookmarklets (How To Use)</p>
     <p>Added Text To APC-Betta-Page (Want To Learn?)</p>
     <h3>
-        <a href="https://dawnerror.github.io/APC-Betta-Page/" style=color:lightblue;>
+        <a href="https://dawnerror.github.io/APC-Betta-Page/">
             APC Betta Page
         </a>
     </h3>
