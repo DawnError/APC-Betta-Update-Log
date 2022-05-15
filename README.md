@@ -21,6 +21,7 @@
     <p>Added Text To Bookmarklets (How To Use)</p>
     <p>Added Text To APC-Betta-Page (Want To Learn?)</p>
     <p>Added Blooket Hacks</p>
+    <p>Added Bookmarklets (58 New Bookmarklets)</p>
     <h3>
         <a href="https://dawnerror.github.io/APC-Betta-Page/" style=color:lightblue;>
             APC Betta Page
